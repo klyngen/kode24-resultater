@@ -1,0 +1,313 @@
+Hvor mange års erfaring har du,Konsulent eller fast ansatt,Hva slags rolle har du,Hvilken sektor jobber du i?,Hvilken bransje jobber du i?,Hvor mange ansatte er det hos din nåværende arbeidsgiver,Frontend teknologi,Meta-rammeverk,Hvor godt synes du denne frontend-teknologien passer i ditt nåværende prosjekt,"Om du er fullstack i ditt nåværende prosjekt, hvilken backend bruker du",Frontend teknologi,Huk av om du vil bruke et meta-rammeverk,"Ved valg av rammeverk,  hvor viktig er det at teknologien er stabil og velutprøvd","Ved valg av rammeverk, hvor viktig er det at teknologien er ""kul""",Hvilken backend tror du vil bli valgt?,Frontend teknologi,Huk av om du vil bruke et meta-rammeverk,Hvilken backend ville du valgt?,React (om fem år),Angular (om fem år),Vue (om fem år),Svelte (om fem år),Lit (om fem år),Qwik (om fem år),Ember (om fem år),Preact (om fem år),SolidJS (om fem år),AlpineJS (om fem år),React Native (om fem år),Flutter (om fem år),Native Android / Native IOS (om fem år),Ionic (om fem år),Blazor / Razor (om fem år)
+11 - 20 års erfaring,Konsulent,Frontend,Privat,Helse,1 - 10 ansatte,Angular,,6,,Angular,,6,1,.NET,Angular,,.NET,2,6,4,3,3,3,3,2,2,2,1,5,4,3,3
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,Next,5,python,React,Remix,5,1,Typescript,Svelte,Sveltekit,Rust,5,2,5,5,1,1,1,1,4,3,6,6,6,3,2
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Olje/Energi,10 - 50 ansatte,Angular,,4,Golang,Flutter,,5,5,.NET,Lit,,Golang,5,4,3,4,3,2,1,1,2,2,2,4,4,1,4
+11 - 20 års erfaring,Fast ansatt,Frontend,Privat,Telekom,50 - 100 ansatte,Angular,Ingen,6,Java,Angular,,6,3,Java,Angular,,Java,5,5,4,4,3,3,3,2,2,2,4,4,3,4,4
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Telekom,10 - 50 ansatte,Vue,Nuxt,5,,Vue,Nuxt,5,4,,Svelte,Sveltekit,,4,2,4,4,3,3,2,1,2,2,3,2,5,2,3
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Telekom,Over 2000 ansatte,Vue,,6,Java,Vue,Next,5,4,Java,Vue,Next,Rust,6,1,6,3,3,3,3,3,3,3,3,3,6,3,3
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Telekom,Over 2000 ansatte,Vue,Nuxt,6,NodeJS,Vue,,5,3,NodeJS,Vue,,NodeJS,3,2,5,4,1,1,1,1,1,1,2,2,3,2,2
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Teknologi,10 - 50 ansatte,React,,6,Kotlin,React,,5,1,.NET,Fable,,.NET,6,2,6,4,4,3,2,2,3,3,2,5,6,4,6
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Telekom,1000 - 2000 ansatte,Vue,,6,Java,Vue,,6,2,Java,Vue,Nuxt,Kotlin,2,1,5,3,3,3,3,3,3,3,3,3,3,3,3
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React,Next,5,Java,React,Next,6,3,Java,Svelte,Sveltekit,.NET,6,5,3,5,1,1,1,1,1,1,5,5,5,3,4
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,400 - 1000 ansatte,Svelte,Sveltekit,6,.NET,Svelte,Sveltekit,5,4,Rust,Svelte,Sveltekit,Rust,1,4,5,6,1,4,1,2,4,2,5,5,6,3,1
+3 - 4  års erfaring,Fast ansatt,Frontend,Offentlig,Teknologi,100 - 200 ansatte,Vue,Astro,5,,Vue,Astro,5,2,PHP,Vue,Astro,PHP,3,1,5,3,3,1,1,1,1,1,1,1,2,2,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Helse,50 - 100 ansatte,React,Next,6,.NET,React,Next,4,4,"NodeJS, TypeScript",React,Next,NodeJS,6,5,5,4,2,2,2,3,2,2,4,5,5,3,4
+3 - 4  års erfaring,Fast ansatt,Techlead,Privat,Detaljhandel,10 - 50 ansatte,React,Next,6,Java,React,Next,4,5,Kotlin,React,,Kotlin,6,1,1,2,1,1,1,1,1,1,5,5,6,1,1
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Transport/Logistikk/Reiseliv,1 - 10 ansatte,Native Android / Native IOS,,6,Node.js,Native Android / Native IOS,,5,2,Node.js,Native Android / Native IOS,,Node.js,4,2,5,4,1,1,1,1,1,1,2,3,6,1,1
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,Gatsby,3,,React,Next,5,4,Rust,React,Next,Rust,5,3,2,2,1,1,1,1,1,1,5,4,5,1,1
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Teknologi,50 - 100 ansatte,Vue,,6,PHP,Vue,,4,4,PHP,Vue,Nuxt,PHP,4,2,5,5,2,1,1,1,2,4,6,6,4,2,2
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Detaljhandel,10 - 50 ansatte,Stimulus ,,6,Ruby,Stimulus,,5,3,Ruby,Stimulus ,,Ruby,1,1,3,1,1,1,1,1,1,1,1,1,3,1,1
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,50 - 100 ansatte,Vue,Nuxt,6,,Vue,Nuxt,5,1,Java,Vue,Nuxt,,5,4,5,3,3,3,2,4,4,4,2,1,6,2,3
+Mer enn 20 års erfaring,Konsulent,Fullstack,Privat,Konsulent mot offentlig sektor,Over 2000 ansatte,React,,6,Java,React,,5,2,Rust,React,Next,Rust,4,1,3,3,4,1,1,1,2,1,3,4,5,1,3
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Helse,100 - 200 ansatte,React,Blitz js,6,Node,React,Blitz js,4,2,Node,React,Next,Node,6,2,5,3,3,3,1,2,5,4,4,4,6,3,2
+1 - 2 års erfaring,Konsulent,Techlead,Offentlig,Teknologi,Over 2000 ansatte,React,,4,Java,React,Next,5,3,Kotlin,React,Next,Java,5,4,4,5,2,4,2,1,2,2,2,2,6,4,2
+11 - 20 års erfaring,Konsulent,Techlead,Privat,Pengespill,10 - 50 ansatte,Angular,,6,.NET,Angular,,6,2,.NET,Angular,,.NET,5,5,3,4,4,4,2,1,4,3,4,6,5,3,6
+Mer enn 20 års erfaring,Fast ansatt,Arkitekt,Privat,Teknologi,400 - 1000 ansatte,HTMX,Ingen,5,.NET,HTMX,,4,3,Rust,HTMX,,Rust,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Bank/Finans/Forsikring,Over 2000 ansatte,Blazor / Razor,Next,5,.NET,React,,5,3,.NET,Svelte,Sveltekit,Golang,5,5,5,5,3,3,3,3,3,3,2,5,6,1,5
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Teknologi,200 - 400 ansatte,React,Next,5,,React,Next,5,4,Kotlin,React Native,Next,Kotlin,6,2,3,4,2,3,1,1,3,1,5,4,5,1,2
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,200 - 400 ansatte,React Native,,6,,React Native,,6,3,.NET,React Native,Sveltekit,.NET,6,4,2,5,1,1,1,2,2,1,6,5,6,1,1
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Industri,1000 - 2000 ansatte,React,Next,3,.NET,Lit,,5,2,.NET,Lit,,.NET,5,3,2,1,3,1,1,1,1,1,1,3,1,1,4
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,1 - 10 ansatte,React,Next,6,PHP,React,Next,6,4,Next js har en form for backend selv,React,Next,Nextjs,5,3,3,4,2,2,2,2,3,3,3,4,5,3,3
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Bank/Finans/Forsikring,1 - 10 ansatte,Svelte,Sveltekit,6,SvelteKit,Svelte,Sveltekit,5,2,,Svelte,Astro,Nest.js,3,2,4,6,4,5,1,2,5,5,5,4,6,4,2
+3 - 4  års erfaring,Konsulent,Backend,Offentlig,Helse,400 - 1000 ansatte,Angular,,3,.NET,Blazor / Razor,,5,5,.NET,Svelte,Sveltekit,.NET,6,4,5,3,3,1,1,1,1,1,4,4,4,2,5
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,100 - 200 ansatte,Vue,,5,Node,Vue,,6,4,.NET,Flutter,,Rust,4,5,5,3,5,3,3,2,5,3,3,4,4,4,4
+Mer enn 20 års erfaring,Konsulent,Fullstack,Privat,Detaljhandel,1000 - 2000 ansatte,ClojureScript,Ingen,6,Clojure,ClojureScript,,6,1,Clojure,ClojureScript,,Clojure,3,1,3,3,3,3,1,3,3,3,4,5,6,4,2
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Transport/Logistikk/Reiseliv,10 - 50 ansatte,Vue,,6,,Flutter,,5,2,.NET,Flutter,,Firebase,4,2,4,3,3,3,3,3,3,3,2,4,5,2,4
+Under ett års erfaring,Fast ansatt,Fullstack,Offentlig,Teknologi,400 - 1000 ansatte,React,Next,5,Kotlin,React,Vite,5,4,Kotlin,React,Next,Java,4,2,3,5,2,2,1,3,2,1,2,5,4,2,1
+Mer enn 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,Over 2000 ansatte,Blazor / Razor,,6,.NET,Blazor / Razor,,5,1,.NET,Blazor / Razor,,.NET,5,2,3,3,3,3,3,3,3,3,4,3,2,3,5
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Teknologi,50 - 100 ansatte,Vue,,6,.NET,Vue,,6,4,.NET,Vue,,.NET,5,1,6,5,1,1,1,1,2,4,2,6,6,1,2
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,1 - 10 ansatte,Vue,Nuxt,6,PHP,Vue,Nuxt,6,4,Usikker,Vue,Nuxt,Supabase,6,3,6,4,3,3,3,3,3,3,3,5,5,4,1
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Industri,200 - 400 ansatte,React,,4,.NET,React,,4,3,Java,SolidJS,Astro,Rust,5,2,3,5,3,6,1,4,6,4,1,1,5,3,1
+11 - 20 års erfaring,Konsulent,Frontend,,Teknologi,10 - 50 ansatte,React,Next,5,Kotlin,React,Next,5,4,,React,Next,Node.js,6,1,4,5,1,4,1,2,4,1,6,6,6,4,1
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Teknologi,50 - 100 ansatte,React,Next,5,Kotlin,React,Next,4,5,Rust,Svelte,Sveltekit,Rust,3,1,2,5,3,4,1,2,5,4,1,1,6,1,4
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Ingen av delene.,Ingen av delene.,3,Java,Vanilla.,,6,1,Java,Svelte,Sveltekit,Java,6,3,4,6,1,1,1,1,1,1,6,6,6,6,1
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Olje/Energi,Over 2000 ansatte,React,Next,6,.NET,React,Next,6,6,.NET,React,Next,Next,6,3,3,4,3,3,1,1,4,3,6,6,4,4,1
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Telekom,Over 2000 ansatte,Vue,,6,,Vue,,5,5,,Vue,,Node/Express,3,2,4,6,3,3,3,3,3,3,3,3,4,3,3
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,Next,3,,Vue,Nuxt,5,2,.NET,Svelte,Remix,Rust,5,3,5,6,3,2,1,1,4,2,5,4,4,2,3
+Mer enn 20 års erfaring,Fast ansatt,Frontend,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React,Next,6,,React,Next,6,2,node,React,Next,node,6,1,1,1,1,1,1,1,1,1,4,4,1,1,1
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,10 - 50 ansatte,Vue,,4,PHP,React,Next,6,2,PHP,React,Next,PHP,4,2,3,3,2,2,3,3,3,5,3,4,4,3,2
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Teknologi,1 - 10 ansatte,Svelte,Sveltekit,6,sveltekit (serverless funksjoner),Svelte,Sveltekit,6,1,"sveltekit (ja, fremdeles serverless funksjoner)",Svelte,Sveltekit,sveltekit...,3,1,2,6,1,1,1,1,1,1,1,1,1,1,1
+Mer enn 20 års erfaring,Konsulent,Fullstack,Privat,Olje/Energi,10 - 50 ansatte,React,Next,5,.NET,React,Next,5,4,.NET,Svelte,Sveltekit,.NET,4,3,4,4,3,3,3,3,3,3,2,2,4,2,3
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,React Native,,6,Golang,React Native,,6,4,Golang,React Native,,Golang,4,1,2,2,1,2,1,1,1,1,6,5,6,2,2
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Teknologi,10 - 50 ansatte,Angular,,6,,Angular,,6,5,.NET,Flutter,,Rust,5,5,2,1,1,1,3,1,2,3,3,5,6,5,5
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,100 - 200 ansatte,Vue,,5,.NET,Vue,,5,2,Rust,Vue,,Rust,2,1,3,3,3,3,3,3,3,3,3,3,3,3,3
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Teknologi,10 - 50 ansatte,Vue,,6,,React,Next,5,5,.NET,Vue,,node,5,4,5,5,1,1,1,1,1,1,1,5,4,3,4
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Olje/Energi,10 - 50 ansatte,Angular,,6,,Angular,,4,1,Java,Angular,,Java,6,6,4,2,1,1,1,1,1,1,4,1,6,2,1
+11 - 20 års erfaring,Konsulent,Frontend,Privat,Teknologi,200 - 400 ansatte,Svelte,Sveltekit,6,,Svelte,Sveltekit,5,3,,Svelte,Sveltekit,,3,2,4,6,1,1,1,2,4,2,2,1,1,1,1
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,Vue,Nuxt,6,.NET,React,Next,5,3,.NET,React,Next,.NET,5,3,5,5,3,4,2,2,4,3,3,4,5,3,3
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Teknologi,1 - 10 ansatte,React,,4,,React,Next,4,2,Python,SolidJS,Next,Rust,5,4,5,4,3,3,1,5,5,3,4,4,6,3,3
+5 - 10 års erfaring,Fast ansatt,Fullstack,Offentlig,Helse,400 - 1000 ansatte,Vue,,6,,Vue,,4,2,.NET,Vue,,PHP,5,4,5,3,2,2,2,2,2,2,3,4,6,3,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Bank/Finans/Forsikring,1 - 10 ansatte,React,Gatsby,5,Node,Svelte,Sveltekit,4,1,Node,React,Gatsby,Node,5,3,3,4,2,2,2,2,2,2,4,3,2,2,3
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Teknologi,200 - 400 ansatte,React,,6,.NET,React,,6,3,.NET,React,,Node,6,3,5,2,1,1,1,1,1,1,4,2,5,1,1
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Legal tech,10 - 50 ansatte,Elm,,5,Kotlin,Elm,,5,5,Kotlin,Elm,,Kotlin,4,2,1,4,4,4,4,4,4,3,4,4,5,3,4
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Kommunikasjon,10 - 50 ansatte,Wordpress,Gulp,6,PHP,Vanilla JS,Gulp,5,1,PHP,React,Vite,Python/Django,5,4,3,3,2,2,2,4,1,1,4,4,6,1,4
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,,5,.NET,React,Next,5,4,.NET,Svelte,Sveltekit,Kotlin,5,2,2,4,2,3,1,2,3,1,4,5,6,2,1
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Teknologi,1 - 10 ansatte,React,Next,6,PHP,React,Next,6,6,Node,React,Next,Node,6,2,6,4,3,3,2,4,4,4,6,6,6,3,3
+11 - 20 års erfaring,Fast ansatt,Fullstack,Offentlig,Velferd,Over 2000 ansatte,React,Next,5,Node,React,Next,4,3,Node,React,Next,Kotlin,3,1,3,2,2,2,1,1,2,2,2,3,4,2,2
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,Next,5,NodeJS,React,Next,5,3,NodeJS,React,Next,NodeJS,6,4,4,5,4,5,3,2,4,3,5,4,4,4,4
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,ESG,10 - 50 ansatte,Svelte,Sveltekit,6,SvelteKit,Svelte,Sveltekit,5,4,serverless sveltekit eller next,Svelte,Sveltekit,serverless,4,1,2,4,1,2,3,2,4,2,3,4,6,2,1
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Teknologi,400 - 1000 ansatte, ,,4,Kotlin,React,,3,4,Kotlin,React,Next,Next Server Functions,5,3,3,2,1,1,1,2,1,1,6,5,4,1,2
+Under ett års erfaring,Konsulent,Frontend,Privat,Teknologi,400 - 1000 ansatte,Astro,Sveltekit,6,,React,Next,6,2,,Svelte,Sveltekit,.NET,3,1,2,6,1,1,1,1,1,1,3,4,3,1,5
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Teknologi,100 - 200 ansatte,React,Next,6,.NET,React,Next,5,4,.NET,Svelte,Sveltekit,Rust,6,4,3,5,2,3,2,4,2,2,6,6,6,3,4
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Industri,10 - 50 ansatte,Vue,Nuxt,4,.NET,Svelte,Sveltekit,4,4,Kotlin,Svelte,Sveltekit,Golang,3,4,2,5,3,4,2,2,5,3,3,4,6,3,2
+1 - 2 års erfaring,Fast ansatt,Fullstack,Offentlig,Transport/Logistikk/Reiseliv,1000 - 2000 ansatte,React,Next,6,.NET,React,Next,5,5,.NET,Qwik,,Python,6,1,5,6,3,6,4,6,5,5,6,6,6,4,5
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Olje/Energi,200 - 400 ansatte,React,Next,6,.NET,React,Next,6,3,.NET,React,Remix,Rust,5,3,2,2,1,1,1,1,1,1,3,2,2,1,2
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Teknologi,400 - 1000 ansatte,React Native,,5,Kotlin,React Native,,4,4,Kotlin,Native Android / Native IOS,,Kotlin,5,3,4,4,4,2,2,3,4,4,5,5,5,2,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Olje/Energi,Over 2000 ansatte,React,,6,Python,React,Next,5,5,Python,Svelte,Sveltekit,Python - FastAPI,6,2,4,4,1,1,2,2,2,2,3,3,5,3,4
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Teknologi,10 - 50 ansatte,Vue,,5,,React,,5,1,.NET,Ionic,,NodeJS,6,3,4,3,3,3,3,3,3,3,3,3,2,3,1
+Mer enn 20 års erfaring,Konsulent,"Veldig prosjektavhengig. Har hatt alle rollene nevnt her, og flere til.",Privat,Teknologi,1000 - 2000 ansatte,React,Next,1,Mitt nåværende prosjekt innebærer dessverre ikke koding.,Det må vel nesten behovene i prosjektet avgjøre,Det må prosjektet avgjøre,5,3,Prosjektavhengig,React,Next,Rust,4,2,2,4,2,3,2,2,4,3,5,2,2,1,3
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Helse,10 - 50 ansatte,React,Next,5,,React,Next,5,4,.NET,React,Next,Java,4,4,5,4,2,2,2,3,2,2,3,4,2,2,2
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Teknologi,10 - 50 ansatte,Svelte,,4,,Svelte,Sveltekit,5,3,Django,Vue,,Django,4,3,4,3,2,2,2,2,2,2,3,3,2,2,2
+1 - 2 års erfaring,Konsulent,Frontend,Privat,Telekom,Over 2000 ansatte,Vue,Nuxt,6,,Vue,Nuxt,5,5,Java,React,Next,.NET,6,4,5,4,3,3,3,3,3,3,5,4,6,3,4
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React Native,Next,5,node.js,React,Next,4,2,node.js,React,Remix,node.js,5,4,5,5,3,3,3,3,3,3,5,4,6,3,3
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React Native,Next,5,node.js,React,Next,4,2,node.js,React,Remix,node.js,5,4,5,5,3,3,3,3,3,3,5,4,6,3,3
+Under ett års erfaring,Konsulent,Frontend,Privat,Teknologi,Over 2000 ansatte,React,Next,5,,React,Next,6,1,.NET,React Native,Next,JavaScript,4,4,4,3,3,3,3,3,3,3,5,3,5,4,4
+Mer enn 20 års erfaring,Fast ansatt,Frontend,Offentlig,Teknologi,100 - 200 ansatte,Vue,Astro,6,node.js,Vue,Astro,5,3,node.js,Lit,Astro,deno,5,2,5,4,5,1,1,1,2,1,1,4,5,4,1
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,Next,6,nodejs,React,Next,5,4,nodejs,React,Next,nodejs,6,2,4,5,1,1,1,1,1,5,5,1,6,1,1
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Vue,,6,.NET,Vue,,5,3,.NET,Svelte,Sveltekit,.NET,5,2,5,4,3,3,1,2,1,1,5,2,4,3,1
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Forlag,200 - 400 ansatte,React,Lerna,6,Node,Vue,,6,3,,Vue,,Node,6,3,5,3,2,1,1,1,1,1,3,3,2,2,2
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,Vue,,6,.NET,Vue,Nuxt,5,2,.NET,Vue,Nuxt,.NET,5,3,5,3,4,2,1,2,2,2,1,3,3,1,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Forskjellige,Over 2000 ansatte,React,,6,.NET,React,,6,1,.NET,React,Next,.NET,5,2,5,6,3,2,2,2,2,2,4,5,4,3,4
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,400 - 1000 ansatte,React,Remix,6,Kotlin,React,Remix,4,4,Kotlin,React,Remix,Node,6,1,5,4,1,2,1,3,3,2,6,6,6,4,3
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Olje/Energi,1000 - 2000 ansatte,React,,5,Python,React,Next,4,4,Node,React,,Clojure ,5,2,5,4,2,3,2,3,3,3,5,5,5,3,3
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Industri,200 - 400 ansatte,React,Next,5,Node,React,Next,5,4,.NET,React,Astro,.NET,5,2,2,3,2,2,1,1,3,2,3,3,5,2,3
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,,5,.NET,React,Next,5,4,.NET,Svelte,Sveltekit,Python,5,2,4,5,2,2,2,1,2,4,5,4,3,2,2
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Olje/Energi,400 - 1000 ansatte,Lit,,3,.NET,Angular,,4,5,Node.js,Svelte,Sveltekit,Firebase / supabase,3,3,4,5,2,2,2,2,2,2,2,3,5,3,3
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,200 - 400 ansatte,React,Ingen. SPA. ,3,Kotlin,React,Ingen. SPA. ,5,3,Kotlin,Qwik,Astro,Deno,5,3,3,3,4,4,2,2,3,3,3,3,3,3,2
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,1 - 10 ansatte,Svelte,Sveltekit,6,Node,Svelte,Sveltekit,5,1,Sanity eller strapi,Svelte,Sveltekit,Strapi,3,4,2,5,2,5,1,1,3,5,1,1,5,1,4
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Olje/Energi,10 - 50 ansatte,Flutter,,6,,Angular,,5,4,.NET,Angular,Nuxt,.NET,3,4,1,2,1,1,1,1,1,1,1,5,3,1,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Bank/Finans/Forsikring,10 - 50 ansatte,React,,3,Kotlin,React,Next,2,2,Kotlin,React,Next,Next med Typescript ,3,1,4,4,3,3,2,3,3,3,2,2,4,2,2
+3 - 4  års erfaring,Fast ansatt,open source maintainer,Privat,Teknologi,400 - 1000 ansatte,React,Next,6,Next.js,React,Next,6,4,Next.js,React,Next,Next.js,5,2,3,6,3,4,2,1,5,2,6,4,2,1,1
+Mer enn 20 års erfaring,Fast ansatt,Frontend,Offentlig,Teknologi,100 - 200 ansatte,Vue,,6,,Vue,,6,1,,Vue,,Node.js,4,1,5,5,6,1,1,2,1,1,3,3,4,1,1
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Industri,100 - 200 ansatte,React,,5,Golang,React,,4,4,Golang,React,,Golang,4,2,3,4,3,3,3,3,4,3,4,2,5,3,3
+11 - 20 års erfaring,Fast ansatt,Techlead,Offentlig,Teknologi,50 - 100 ansatte,React,,5,Python,React,,6,4,Python,React,,,5,3,4,3,3,3,3,3,3,3,3,3,3,3,3
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Olje/Energi,400 - 1000 ansatte,React,,6,.NET,React,Next,6,4,.NET,Vue,Nuxt,Golang,6,2,4,4,1,2,2,1,2,1,3,4,5,3,2
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Offentlig,Teknologi,400 - 1000 ansatte,React,Remix,6,PHP,React,Remix,5,2,JavaScript (Node),React,Remix,JavaScript (TypeScript),5,1,5,5,1,1,1,5,3,3,3,4,1,4,1
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1000 - 2000 ansatte,Angular,,5,Java,React,,6,4,Golang,Svelte,Sveltekit,Golang,4,5,3,4,3,3,1,2,3,1,4,4,4,2,1
+3 - 4  års erfaring,Fast ansatt,Techlead,Offentlig,Forsvaret ,Over 2000 ansatte,Angular,,4,"Dotnet, python og nodejs. Men mest dotnet",Angular,,6,2,Node/ts/nestjs,Angular,,Nestjs/node/ts,5,5,4,3,1,2,1,2,2,1,3,4,6,4,2
+Mer enn 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,,6,,React,Next,6,2,.NET,Flutter,,Surreal DB + Node Red + NginX,6,1,4,4,6,3,2,4,3,1,1,5,1,3,3
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Eiendom,10 - 50 ansatte,Vue,,3,Nodejs,Vue,Nuxt,5,4,Nodejs,Vue,Nuxt,,4,2,4,5,5,5,2,3,4,5,3,4,5,3,2
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,200 - 400 ansatte,Vue,,5,Node,Vue,Nuxt,4,4,Node,Vue,Nuxt,Golang,4,3,3,2,1,1,1,1,1,1,2,1,6,2,1
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Helse,200 - 400 ansatte,Svelte,,6,.NET,Svelte,Sveltekit,5,3,.NET,Svelte,Sveltekit,.NET,3,1,2,5,1,1,1,1,1,1,2,1,4,1,1
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Media,400 - 1000 ansatte,React,Next,5,Node,React,Next,5,2,Golang,React,Astro,Node,6,2,3,5,2,2,1,2,2,2,5,3,6,2,2
+11 - 20 års erfaring,Fast ansatt,Fullstack,Offentlig,Bank/Finans/Forsikring,400 - 1000 ansatte,React,Next,3,Java,Svelte,Sveltekit,5,5,Kotlin,Vue,Next,Kotlin,4,3,4,4,2,2,2,2,2,2,5,5,5,4,4
+Under ett års erfaring,Fast ansatt,Frontend,Privat,Byrå som gjør alt,1 - 10 ansatte,React,Next,6,,React,Next,6,1,,Svelte,Sveltekit,,6,5,3,5,3,3,3,4,4,3,5,3,3,3,3
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,SolidJS,,6,.NET,Blazor / Razor,,6,2,.NET,SolidJS,Sveltekit,Node,5,3,3,4,3,2,2,2,5,2,4,3,5,3,5
+5 - 10 års erfaring,Konsulent,Fullstack,Offentlig,Olje/Energi,Over 2000 ansatte,React,Next,5,.NET,React,Next,4,4,next/node/serverless,React,Next,next/node/serverless,5,1,3,5,5,5,2,1,3,3,4,3,3,2,1
+1 - 2 års erfaring,Fast ansatt,Frontend,Offentlig,Teknologi,50 - 100 ansatte,React,Next,5,,React,Next,6,5,Java,React,Next,Firebase,5,5,5,4,5,6,5,5,5,5,5,5,5,5,5
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Detaljhandel,Over 2000 ansatte,React,Next,6,.NET,React,Next,6,2,.NET,React,Gatsby,Express.js,5,2,4,3,2,2,1,2,2,2,4,4,3,2,2
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Media,100 - 200 ansatte,Vue,Astro,5,,Vanilla,Astro,4,3,,Vanilla,Astro,,3,2,4,3,3,4,1,2,2,1,1,1,3,2,2
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,200 - 400 ansatte,React,Next,6,Typescript,React,Next,5,6,Typescript,React,Next,Typescript,6,3,4,3,1,2,2,4,4,1,4,4,5,1,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,Next,4,JavaScript / TypeScript,React,Next,4,1,JavaScript / TypeScript,VanillaJS,Ingen. Bruke MVC-mønster eller feature-mapper.,Clojure ,2,2,2,2,3,2,3,5,2,2,2,1,2,1,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,Nei,6,Python/Django,React,Nei,4,3,Node/ts,React,Nei,Node/ts,5,2,3,4,1,1,1,1,1,1,4,2,4,1,1
+11 - 20 års erfaring,Konsulent,Frontend,Privat,Teknologi,100 - 200 ansatte,React,Next,6,Golang,React,Next,6,2,Golang,React,,Golang,5,6,1,1,1,1,1,1,1,3,1,3,6,2,1
+Mer enn 20 års erfaring,Fast ansatt,Frontend,Offentlig,Bibliotek,400 - 1000 ansatte,Angular,,6,Java,Angular,,5,3,Java,Angular,,Java,4,4,4,4,1,1,1,1,1,1,2,2,2,2,1
+Under ett års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,100 - 200 ansatte,React,Next,5,,React,Next,6,4,JavaScript,React,Next,Kotlin,6,1,2,2,1,1,3,4,5,4,6,2,6,3,3
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,Over 2000 ansatte,Svelte,Sveltekit,6,Golang,Svelte,Sveltekit,4,5,Golang,Svelte,Sveltekit,Golang,5,3,3,6,4,3,3,3,4,4,3,3,5,3,3
+1 - 2 års erfaring,Fast ansatt,Backend,Privat,Detaljhandel,400 - 1000 ansatte,Knockout,,3,.NET,React,,6,1,.NET,React,,.NET,6,4,4,3,1,1,1,3,2,2,4,4,6,3,4
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,Svelte,,6,.NET,Svelte,Sveltekit,4,4,Bare brukt metarammeverket rett mot databasen,Svelte,Sveltekit,,6,3,3,5,4,4,3,3,4,3,3,3,6,3,4
+Mer enn 20 års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,Over 2000 ansatte,React,Remix,4,,React,Remix,3,1,Golang,Webkomponenter,,Golang,3,3,3,4,5,3,2,3,2,2,1,4,6,2,1
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Teknologi,10 - 50 ansatte,React,Next,6,.NET,React,Next,4,5,.NET,Dioxus,Dioxus,Rust,6,3,4,4,4,3,1,2,5,3,2,6,6,2,6
+1 - 2 års erfaring,Konsulent,Frontend,Offentlig,Teknologi,10 - 50 ansatte,React,,4,Express,Angular,,4,4,,Svelte,Sveltekit,Golang,5,5,4,5,6,6,4,4,4,4,5,5,5,3,3
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Bank/Finans/Forsikring,100 - 200 ansatte,React,,1,Kotlin,Vue,,4,4,Kotlin,Vue,,Kotlin,2,2,6,4,1,1,1,1,3,2,1,2,6,2,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Annet,10 - 50 ansatte,Vue,,5,.NET,Vue,,5,2,.NET,Ingen hobbyprosjekt,,,5,3,5,3,3,3,3,3,3,3,3,3,3,3,3
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,,6,Java,React,,6,4,Java,React,Remix,,6,4,4,3,1,3,1,1,5,4,6,6,5,1,1
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Olje/Energi,10 - 50 ansatte,React,,4,.NET,Svelte,Sveltekit,3,5,.NET,Svelte,,Rust,5,2,2,5,1,1,1,1,1,1,1,3,3,1,1
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Teknologi,Over 2000 ansatte,React,,5,Kotlin,React,Next,4,4,Kotlin,React,Next,Kotlin,6,2,5,4,3,3,3,3,3,3,5,5,4,3,3
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Media,200 - 400 ansatte,React,,4,,Svelte,Sveltekit,4,4,,Svelte,Sveltekit,Rust,4,2,3,5,3,3,4,3,4,4,5,5,5,3,3
+5 - 10 års erfaring,Konsulent,Backend,Privat,Bank/Finans/Forsikring,10 - 50 ansatte,React,,5,Kotlin,React,,4,5,Kotlin,SolidJS,,Kotlin,4,4,3,2,2,3,1,3,5,1,2,2,5,1,1
+Under ett års erfaring,Fast ansatt,Frontend,Offentlig,Bank/Finans/Forsikring,200 - 400 ansatte,Angular,,6,,Angular,,6,1,,Angular,,,4,5,4,5,3,3,3,3,3,3,2,2,4,3,2
+5 - 10 års erfaring,Fast ansatt,Techlead,Offentlig,Olje/Energi,Over 2000 ansatte,React,,5,.NET,React,,5,4,.NET,React Native,,Rust,5,3,3,2,1,1,2,2,2,1,4,5,4,2,3
+3 - 4  års erfaring,Fast ansatt,Arkitekt,Privat,Teknologi,50 - 100 ansatte,Vue,,4,Java,Vue,,5,4,Java,React,Next,Node,5,1,3,5,3,3,2,4,3,3,4,4,4,2,2
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,Over 2000 ansatte,React,Vite,5,Python,React,Next,6,3,.NET,SolidJS,,Bun,6,3,3,3,2,2,1,4,4,3,6,4,6,3,2
+Under ett års erfaring,Fast ansatt,Fullstack,Privat,Transport/Logistikk/Reiseliv,10 - 50 ansatte,React,,6,Nest JS,React,Next,6,1,Nest JS,React Native,,Node,6,4,3,3,1,1,1,1,3,1,6,6,3,3,3
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,Blazor / Razor,,1,.NET,Angular,,5,3,.NET,Svelte,,.NET,5,5,5,5,3,3,3,3,3,3,3,3,1,3,4
+5 - 10 års erfaring,Konsulent,Fullstack,Offentlig,Olje/Energi,50 - 100 ansatte,React,,5,Kotlin,React,Next,4,5,Kotlin,Native Android / Native IOS,Remix,Haskell,6,3,4,2,2,2,2,2,2,2,4,3,3,2,2
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Teknologi,400 - 1000 ansatte,Svelte,,5,,Svelte,Astro,4,4,Golang,Svelte,Sveltekit,Haskell,4,1,2,6,3,3,1,1,3,2,3,1,2,2,3
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Teknologi,Over 2000 ansatte,React,Next,5,,React,Next,3,1,Java,React,Next,Node,6,1,1,1,1,1,1,4,1,1,6,1,6,1,2
+Under ett års erfaring,Konsulent,Backend,Privat,Olje/Energi,100 - 200 ansatte,React,,4,.NET,React,Next,5,2,.NET,Svelte,Sveltekit,.NET,5,2,3,6,1,1,1,1,1,1,4,4,6,1,2
+11 - 20 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,React,Create-react-app,3,Python,React,Next,6,2,Python,React,Next,Java,6,1,3,2,1,1,1,2,3,1,3,4,5,2,1
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,50 - 100 ansatte,React,,4,Java,React Native,Next,5,2,Java,React,Next,tRPC/Node,6,4,5,6,2,4,1,3,6,3,4,3,6,4,3
+11 - 20 års erfaring,Fast ansatt,Techlead,Offentlig,Teknologi,Over 2000 ansatte,React,,5,,React,Next,5,3,.NET,Svelte,Sveltekit,,5,4,4,4,4,3,2,2,2,2,3,2,5,3,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Detaljhandel,50 - 100 ansatte,React,Ingen (Vite SPA),4,.NET,React,Next,4,5,Fullstack TypeScript (Next/tRPC),React,Next,Fullstack TypeScript (Next/tRPC),5,3,4,4,3,3,2,3,4,3,5,4,6,2,2
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Medier,Over 2000 ansatte,Svelte,Sveltekit,6,Node,Svelte,Sveltekit,4,5,Rust,Svelte,Sveltekit,Rust,3,3,2,4,2,1,1,1,2,1,2,3,5,1,1
+Mer enn 20 års erfaring,Fast ansatt,Dev guru,Privat,Godlike,Over 2000 ansatte,Håndkodet jQuery i Notepad,Notepad er best,6,JSON,jQuery,Notepad,6,6,JSON,jQuery,jQuery,JSON,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,Bulma.io,,4,Python/Flask,React,Sveltekit,2,4,Python/Flask,Svelte,Next,Rust,5,4,3,4,4,3,3,2,3,2,5,6,4,1,1
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Teknologi,100 - 200 ansatte,React,,3,.NET,Svelte,Sveltekit,5,5,.NET,Svelte,Sveltekit,.NET,3,3,4,5,4,5,1,1,3,4,1,6,6,1,4
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Bank/Finans/Forsikring,Over 2000 ansatte,React,Gatsby,4,,React,Next,5,4,Kotlin,React,Next,Golang,5,2,4,4,1,1,2,4,3,1,3,5,6,2,3
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,,6,.NET,React,,6,5,.NET,Svelte,Sveltekit,.NET,6,1,5,6,6,4,4,4,6,4,4,4,5,5,6
+11 - 20 års erfaring,Konsulent,Frontend,Privat,Teknologi,50 - 100 ansatte,React,Next,5,,React,Next,5,4,,Vue,Nuxt,,4,4,4,3,2,3,2,2,2,2,3,6,6,2,3
+5 - 10 års erfaring,Konsulent,Fullstack,Offentlig,Helse,1 - 10 ansatte,Svelte,Sveltekit,6,nodejs,Svelte,Sveltekit,4,1,Golang,Qwik,Sveltekit,Golang,5,4,4,5,3,6,2,2,5,2,4,5,6,4,4
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Svelte,Sveltekit,6,Rust,Svelte,Sveltekit,3,4,Rust,Svelte,Sveltekit,Golang,6,3,4,6,1,1,1,2,2,1,4,4,6,2,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Transport/Logistikk/Reiseliv,Over 2000 ansatte,React,,6,Kotlin,React,,5,2,Kotlin,React,,Rust,5,3,1,2,1,1,1,1,1,1,3,5,6,1,2
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1000 - 2000 ansatte,Vue,Sveltekit,6,Kotlin,Svelte,Sveltekit,5,4,NodeJS,Svelte,Sveltekit,Node,2,3,4,6,1,1,1,1,1,1,2,3,5,3,1
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,50 - 100 ansatte,AlpineJS,Next,5,PHP,Svelte,Astro,5,6,PHP,Svelte,Astro,Golang,4,1,5,6,4,4,4,4,4,6,2,5,1,2,5
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,Over 2000 ansatte,React Native,,6,Java,React Native,,6,3,Java,Native Android / Native IOS,,,5,4,4,5,4,4,4,4,4,4,4,4,6,4,4
+11 - 20 års erfaring,Konsulent,Frontend,Privat,Teknologi,Over 2000 ansatte,React,Next,6,,React,Astro,5,1,Kotlin,React,Remix,Kotlin,5,2,3,3,3,3,3,1,2,1,2,2,6,3,3
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Bank/Finans/Forsikring,1 - 10 ansatte,Angular,,5,Nodejs,React,Next,6,4,Java,Qwik,,Kotlin,2,5,5,4,3,3,2,3,2,2,3,5,3,1,2
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,100 - 200 ansatte,React,ReScript ,3,,React,Next,5,4,Java,Svelte,Sveltekit,Rust,5,1,3,5,1,1,1,3,4,1,5,4,5,1,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Offentlig,Telekom,Over 2000 ansatte,Vue,Nuxt,6,Java,Vue,Nuxt,5,4,,Vue,Nuxt,PHP,6,2,6,3,3,3,3,3,3,3,5,3,5,4,2
+11 - 20 års erfaring,Fast ansatt,Frontend,Offentlig,Teknologi,100 - 200 ansatte,React,,6,,React,,5,4,Kotlin,React,,Java,4,2,3,2,2,1,1,3,2,2,1,5,6,2,2
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Offentlig,staten,400 - 1000 ansatte,React,Next,4,.NET,Vue,,5,3,.NET,Vue,,.NET,4,1,5,1,1,1,1,1,1,1,3,3,4,1,1
+11 - 20 års erfaring,Konsulent,Fullstack,Offentlig,Staten,400 - 1000 ansatte,React,Remix,5,Kotlin,Vue,Next,4,4,.NET,Blazor / Razor,Astro,.NET,5,4,5,2,2,1,4,5,3,1,5,4,5,3,4
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,100 - 200 ansatte,React,,5,,Preact,,5,3,,Svelte,Sveltekit,,5,2,3,5,2,1,1,4,3,1,2,5,5,2,2
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Svelte,Sveltekit,5,Rust,Svelte,Sveltekit,4,3,Rust,Svelte,Sveltekit,Rust,3,1,3,5,2,3,1,2,3,3,4,4,5,2,4
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Industri,1 - 10 ansatte,React,,4,.NET,React,,5,4,.NET,Native Android / Native IOS,,.NET,5,3,4,2,1,1,1,1,1,1,5,5,5,2,4
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Helse,400 - 1000 ansatte,Angular,,5,.NET,Angular,,5,3,.NET,Blazor / Razor,,.NET,3,3,2,2,2,2,2,1,1,1,2,2,2,2,3
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Bank/Finans/Forsikring,200 - 400 ansatte,React,,6,,React,,6,2,NodeJS,React,,NodeJS,5,5,4,3,2,2,2,3,3,2,4,4,4,3,4
+5 - 10 års erfaring,Konsulent,CTO,Privat,Transport/Logistikk/Reiseliv,1 - 10 ansatte,Qooxdoo,Qooxdoo,1,Java,React,Next,4,5,Kotlin,React,Next,Typescript,6,1,3,2,1,1,1,2,2,1,6,2,6,1,1
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Teknologi,Over 2000 ansatte,React,,5,Java,React,,6,3,Kotlin,React,Next,Kotlin,6,2,5,4,2,2,2,2,1,3,4,5,5,3,6
+11 - 20 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,React,Next,3,.NET,React,Next,4,5,.NET,Svelte,Sveltekit,PHP,4,2,4,6,4,4,2,3,3,4,3,2,2,3,4
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1 - 10 ansatte,Vue,,6,PHP,Vue,Nuxt,6,1,PHP,Svelte,,Golang,3,1,5,4,3,3,3,3,3,3,4,2,4,4,4
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,jQuery,,2,PHP,React,,5,1,PHP,Ember,,PHP,4,1,3,2,2,1,3,1,1,1,4,4,5,1,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,50 - 100 ansatte,Svelte,Sveltekit,6,.NET,Svelte,Sveltekit,5,1,.NET,Svelte,Sveltekit,.NET,1,1,3,6,1,2,1,1,1,4,1,3,5,3,5
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Bank/Finans/Forsikring,1000 - 2000 ansatte,React,,6,Java,React,Next,6,6,Kotlin,Flutter,Next,Nodejs,6,3,3,3,1,1,1,1,4,3,6,4,6,5,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Helse,10 - 50 ansatte,React,,6,Java,Vue,Nuxt,4,3,Kotlin,Riot,,Kotlin,4,2,3,1,1,3,1,1,1,1,1,1,6,1,5
+Mer enn 20 års erfaring,Konsulent,Techlead,Offentlig,Transport/Logistikk/Reiseliv,Over 2000 ansatte,React,,6,Kotlin,React,,5,4,Kotlin,React,,Python,6,2,2,2,2,2,2,2,2,2,4,3,2,2,1
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,,6,Kotlin,React,,6,4,Kotlin,Qwik,,Kotlin,6,2,4,3,1,3,1,2,1,1,3,3,6,1,1
+5 - 10 års erfaring,Konsulent,Techlead,Offentlig,Transport/Logistikk/Reiseliv,Over 2000 ansatte,React,Next,4,Kotlin,React,,6,4,Kotlin,React,,Kotlin,4,4,4,5,2,3,1,3,3,2,3,3,4,3,4
+11 - 20 års erfaring,Konsulent,Frontend,Privat,Olje/Energi,200 - 400 ansatte,React,Next,6,,React,Next,5,4,,Svelte,Sveltekit,Node,5,2,3,5,2,1,1,2,2,1,3,2,5,1,1
+5 - 10 års erfaring,Fast ansatt,Frontend,Offentlig,Lotteri,400 - 1000 ansatte,Native Android / Native IOS,UIKit / SwiftUI ,6,,Native Android / Native IOS,UIKit/SwiftUI,6,5,,Native Android / Native IOS,UIKit/SwiftUI,,5,3,3,3,3,3,3,3,3,3,3,3,6,3,3
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Helse,200 - 400 ansatte,React,,5,.NET,React,Next,4,4,Golang,React,Next,Golang,6,5,3,3,2,1,1,2,3,1,6,3,5,1,3
+Mer enn 20 års erfaring,Fast ansatt,Fullstack,Privat,Reklamebyrå,10 - 50 ansatte,Vue,,5,PHP,Vue,,5,2,PHP,Vue,,PHP,3,2,4,3,1,1,1,1,1,3,1,3,4,1,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Olje/Energi,1000 - 2000 ansatte,Lit,Asp.net,6,.NET,Lit,Dotnet,5,4,Dotnet,Svelte,Sveltekit,.NET,3,3,4,5,5,2,2,2,2,3,1,2,5,2,1
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,1 - 10 ansatte,Svelte,,6,.NET,Svelte,Sveltekit,4,1,.NET,Svelte,Sveltekit,NodeJs,2,2,4,5,4,1,1,2,2,2,2,6,4,1,4
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,10 - 50 ansatte,Angular,,6,.NET,Angular,,6,2,.NET,Svelte,Sveltekit,.NET,6,5,5,5,3,3,1,4,4,3,4,4,5,3,4
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,HR,1 - 10 ansatte,Angular,,6,.NET,Angular,,6,4,.NET,Angular,,.NET,4,6,3,4,1,3,1,1,3,1,3,2,1,2,3
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,ecommerce,50 - 100 ansatte,React,Vite,6,PHP,React,Vite,6,1,PHP,React,Next,Nodejs / Expressjs,6,6,4,2,2,2,2,3,3,2,5,4,5,2,2
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,1 - 10 ansatte,React,,5,Java,React,RXJs og NX,4,4,Rust,Svelte,Sveltekit,Rust,6,6,6,6,1,1,1,1,1,1,1,6,1,6,1
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Olje/Energi,1000 - 2000 ansatte,React,Next,6,,React,Next,5,5,Node,React,Next,Node,5,1,3,3,3,3,1,1,3,1,3,3,6,3,1
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Teknologi,10 - 50 ansatte,Blazor / Razor,,5,.NET,Blazor / Razor,,5,5,.NET,Blazor / Razor,,.NET,2,3,3,3,2,2,2,2,2,2,3,2,2,2,4
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,Over 2000 ansatte,Blazor / Razor,,5,.NET,Blazor / Razor,,6,2,.NET,Vue,,Java,3,2,4,5,1,1,1,1,1,5,3,4,6,3,6
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Transport/Logistikk/Reiseliv,50 - 100 ansatte,Vue,Ingen,5,Java,Vue,Ingen,6,4,Kotlin,Svelte,Sveltekit,Kotlin,3,2,3,5,1,1,1,1,5,1,1,5,6,1,1
+11 - 20 års erfaring,Konsulent,Backend,Privat,Telekom,200 - 400 ansatte,Blazor / Razor,Next,4,.NET,Svelte,Sveltekit,3,4,Sveltekit (Node),Svelte,Sveltekit,Sveltekit (NodeJS),2,1,3,6,1,3,1,1,1,1,1,3,1,1,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Bank/Finans/Forsikring,10 - 50 ansatte,React,Gatsby,6,.NET,React,,6,4,.NET,SolidJS,Next,.NET,6,1,3,4,3,2,2,2,3,2,4,5,6,2,1
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Teknologi,10 - 50 ansatte,React,Next,6,,React,Next,6,4,,React,Next,,6,1,3,2,2,2,1,2,1,1,5,3,6,3,3
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Transport/Logistikk/Reiseliv,1 - 10 ansatte,VanillaJS,Jquery,6,Perl,VanillaJS,Egen-mekket $() ,6,1,Perl,VanillaJS,Egen-mekket $() ,Perl,1,1,1,1,1,1,1,1,1,3,1,1,3,1,1
+3 - 4  års erfaring,Fast ansatt,Techlead,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React,,6,Kotlin,React,Next,5,4,Kotlin,Svelte,Sveltekit,Rust,6,4,4,5,3,3,2,4,4,3,6,5,6,3,3
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,Ingen,4,Clojure,ClojureScript,Ingen,6,1,Clojure,ClojureScript,Ingen,Clojure,4,1,1,1,1,1,1,1,1,1,2,3,5,1,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Offentlig,Bank/Finans/Forsikring,400 - 1000 ansatte,React,CRA,3,Kotlin,React,Next,5,3,Kotlin,Vue,Nuxt,Ruby on Rails,3,1,4,5,3,3,1,4,4,3,1,2,6,2,3
+11 - 20 års erfaring,Fast ansatt,Techlead,Offentlig,media,Over 2000 ansatte,Svelte,,6,node,Svelte,,2,1,node,Svelte,,node,2,2,1,2,1,1,1,1,1,1,2,2,6,1,1
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Telekom,10 - 50 ansatte,Vue,,6,.NET,Vue,,5,4,.NET,Vue,,.NET,5,4,5,4,3,3,3,4,4,3,4,5,5,3,5
+11 - 20 års erfaring,Fast ansatt,Backend,Offentlig,Teknologi,Over 2000 ansatte,Svelte,Sveltekit,6,Golang,Svelte,Sveltekit,3,4,Golang,Svelte,Sveltekit,Golang,2,1,3,6,1,1,1,1,2,2,2,4,6,4,2
+Mer enn 20 års erfaring,Konsulent,Fullstack,Privat,"Som konsulent er det jo mange, her burde man kunne valgt flere, evt spørsmålet gjelde akkurat idag",Over 2000 ansatte,Vue,Ingen,4,.NET,fast,Ingen,3,3,.NET,Vue,,.NET,1,1,3,1,4,1,1,1,1,1,1,1,1,1,2
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,Next,6,Next,React,Next,5,6,Next,Vue,Nuxt,Golang,6,2,4,5,2,3,1,4,5,3,2,2,4,3,4
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,,4,Python,React,,6,3,Python,React,Next,Oython,5,3,6,6,3,3,3,3,3,3,2,5,2,3,3
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,"Renhold, helse, bygg",10 - 50 ansatte,Lit,,5,,React,,4,5,Kotlin,React,Next,Rust,6,6,2,4,4,2,2,2,2,2,5,2,4,3,3
+11 - 20 års erfaring,Fast ansatt,Fullstack,Offentlig,Teknologi,10 - 50 ansatte,Sencha ExtJS,,4,Java,React,Next,4,4,Kotlin,Svelte,Sveltekit,Rust,6,4,4,5,3,2,4,3,2,2,5,3,6,3,3
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,Next,6,Node.js,React,Next,5,1,Node.js,React,Astro,Haskell,6,5,5,4,2,2,1,1,1,1,4,4,6,3,4
+Mer enn 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,400 - 1000 ansatte,React,,5,Scala,React,Next,3,3,Scala,Svelte,Sveltekit,Typescript/Node,6,1,4,4,1,3,1,1,2,1,5,1,5,3,1
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,10 - 50 ansatte,React,Next,6,,React,Next,5,3,,React,Astro,Supabase,5,3,4,4,3,3,1,3,4,3,5,5,6,2,2
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Telekom,Over 2000 ansatte,Vue,Nuxt,6,Java,Vue,Nuxt,6,2,Kotlin,Vue,Nuxt,Kotlin,5,3,5,5,3,2,1,2,4,2,2,3,3,2,2
+Under ett års erfaring,Fast ansatt,Frontend,Privat,Detaljhandel,100 - 200 ansatte,React,Next,6,,React,Next,4,5,.NET,React,Next,.NET,5,1,4,5,3,3,3,3,3,3,4,6,6,3,6
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React,,4,,React,Remix,5,4,Med Remix kan man utnytte backenden i remix serveren,React,Remix,Med Remix kan man utnytte backenden i remix serveren,6,4,4,2,2,2,2,3,2,2,5,5,6,2,2
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Transport/Logistikk/Reiseliv,200 - 400 ansatte,"React, Vue og Blazor",,4,Golang,React,,5,4,Golang,React,Nuxt,Golang,6,4,5,4,4,3,4,2,4,4,5,6,6,4,2
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Alle,Over 2000 ansatte,React,,6,Java,React,Remix,4,1,Kotlin,React,,Kotlin,6,4,5,1,1,1,1,6,2,1,3,4,5,2,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,100 - 200 ansatte,React,,6,Java,React,,5,3,Java,Qwik,,Java,5,2,4,4,3,3,1,3,3,3,4,3,4,3,3
+5 - 10 års erfaring,Fast ansatt,Frontend,Offentlig,Medie,Over 2000 ansatte,Lit,,6,.NET,React,Remix,5,3,Kotlin,Qwik,,Rust,5,4,4,4,5,2,1,2,2,2,5,2,3,2,2
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,100 - 200 ansatte,Vue,Nuxt,6,,React,Next,5,3,.NET,Vue,Astro,Golang,5,5,5,5,4,5,2,3,3,3,5,6,6,3,4
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,Over 2000 ansatte,Blazor / Razor,,6,.NET,Blazor / Razor,,5,5,.NET,Blazor / Razor,,.NET,5,3,3,4,3,4,2,4,3,4,5,6,6,4,6
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Media,400 - 1000 ansatte,React,Next,5,Kotlin,React,Next,6,1,.NET,Svelte,Sveltekit,.NET,6,5,5,5,2,2,3,1,4,2,5,5,6,3,5
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Vue,,6,Golang,Vue,Nuxt,5,5,Golang,React,Astro,Golang,4,1,6,6,4,5,2,1,5,1,3,4,6,1,1
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,,6,Java,Vue,Nuxt,5,2,Kotlin,Vue,Sveltekit,Kotlin,6,4,6,5,3,3,1,5,3,3,4,4,6,3,3
+1 - 2 års erfaring,Fast ansatt,Fullstack,Offentlig,Bank/Finans/Forsikring,100 - 200 ansatte,React,,4,.NET,React,Next,5,4,.NET,React,Next,.NET,3,1,4,4,2,1,1,1,1,1,1,1,1,1,4
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Teknologi,10 - 50 ansatte,React,Next,6,,React,Next,6,4,Kotlin,React Native,Next,,5,1,3,3,1,1,1,1,1,1,6,4,6,1,1
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,htmx,Remix,4,Clojure,htmx,,2,1,Clojure,htmx,,Clojure,4,3,2,2,2,2,2,2,3,3,4,3,4,2,4
+11 - 20 års erfaring,Fast ansatt,CTO,Privat,Transport/Logistikk/Reiseliv,50 - 100 ansatte,Ember,Next,4,Node,Native Web Components/Custom elements,Enhance,4,2,Node,Native Web Components/Custom elements,Enhance,Node,2,1,2,4,5,1,2,1,2,1,1,1,6,2,1
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Telekom,10 - 50 ansatte,Vue,,6,,Vue,,2,1,,Vue,,,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1
+5 - 10 års erfaring,Konsulent,Techlead,Privat,Bank/Finans/Forsikring,1000 - 2000 ansatte,Vue,,4,Java,React,Remix,3,3,Node,React,Remix,Rust,6,4,4,2,1,2,1,1,1,1,2,4,6,3,1
+Mer enn 20 års erfaring,Fast ansatt,CTO,Privat,Sjømat,10 - 50 ansatte,Svelte,Sveltekit,6,Python,Svelte,Sveltekit,5,2,.NET,Svelte,Sveltekit,.NET,4,3,5,5,3,2,2,4,2,3,1,4,2,1,2
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,,5,Java,React,Next,5,2,Kotlin,SolidJS,,NodeJS,5,2,4,3,3,2,1,2,5,1,5,5,4,3,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,400 - 1000 ansatte,React,Next,6,.NET,React,Next,5,6,.NET,React,Next,Node (next),6,2,3,5,3,3,1,3,4,3,6,6,6,3,3
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Ikkje relevant,Over 2000 ansatte,Vue,,6,.NET,React,Next,4,5,,Svelte,Sveltekit,,6,2,5,5,3,3,3,3,3,3,3,5,5,3,2
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Transport/Logistikk/Reiseliv,1 - 10 ansatte,React,Vite,5,.NET,React,Vite,4,5,Node,React,Vite,Node,6,2,4,3,2,2,2,4,2,2,5,1,5,2,2
+5 - 10 års erfaring,Konsulent,Fullstack,Offentlig,Stat,400 - 1000 ansatte,React,,5,Kotlin,React,Next,5,5,Kotlin,React,Remix,Rust,6,3,3,2,2,2,2,2,2,2,5,2,4,2,2
+5 - 10 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,200 - 400 ansatte,Angular,,5,.NET,Angular,,5,3,.NET,Svelte,Sveltekit,.NET,6,6,3,3,1,1,1,2,4,1,4,6,6,2,2
+Under ett års erfaring,Fast ansatt,Frontend,Privat,Detaljhandel,400 - 1000 ansatte,React,Next,6,,React,Next,5,4,.NET,React,Next,.NET,6,3,4,3,3,3,3,3,3,3,3,3,5,3,4
+Under ett års erfaring,Konsulent,Frontend,Privat,Teknologi,200 - 400 ansatte,React,Next,6,,React,Next,6,2,.NET,React,Next,.NET,5,3,3,2,2,1,1,2,2,2,5,2,5,2,2
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React,,4,Golang,React,Next,6,3,Java,React,,,4,1,3,2,1,1,1,2,2,1,2,3,6,1,1
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Flutter,,5,Python,Flutter,,5,4,,Flutter,,,3,3,3,5,3,3,3,3,3,3,4,6,2,3,3
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,React,,5,Golang,React,,4,3,Golang,Preact,Astro,Rust,5,4,4,3,2,1,2,4,3,3,4,5,5,3,4
+3 - 4  års erfaring,Konsulent,Fullstack,Offentlig,Teknologi,400 - 1000 ansatte,React,,4,Python,React,Remix,5,2,Kotlin,React,,Golang,5,3,1,2,1,3,1,3,5,3,3,3,6,4,4
+Under ett års erfaring,Fast ansatt,Fullstack,Privat,Transport/Logistikk/Reiseliv,1 - 10 ansatte,Angular,,5,.NET,React,Next,5,4,.NET,SolidJS,Astro,.NET,5,4,2,6,4,6,1,5,6,3,4,4,4,3,2
+Mer enn 20 års erfaring,Fast ansatt,Fullstack,Privat,?,10 - 50 ansatte,Backbone,,2,Java,Svelte,,5,2,Java,VanillaJS,,Java,1,1,3,5,1,1,1,1,2,2,1,1,5,1,3
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Bank/Finans/Forsikring,200 - 400 ansatte,React,,5,.NET,Svelte,,6,1,.NET,Svelte,Sveltekit,.NET,3,1,4,3,3,3,2,1,4,2,4,3,4,2,2
+Mer enn 20 års erfaring,Fast ansatt,Techlead,Privat,Solar,1 - 10 ansatte,React,Next,5,Python,React,Next,5,5,Golang,React,Next,Rust,5,1,3,5,1,1,1,1,1,1,5,4,6,1,1
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Olje/Energi,Over 2000 ansatte,React,,4,.NET,React,Next,5,4,.NET,Qwik,Qwik City (routing),.NET,5,3,1,3,1,5,2,1,1,2,5,5,6,2,4
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Olje/Energi,100 - 200 ansatte,Angular,Ingen,4,.NET,Svelte,vet ikke hva meta-rammeverk er en gang.,6,1,.NET,Svelte,,.NET,5,5,4,5,1,1,1,1,1,1,1,3,6,1,1
+5 - 10 års erfaring,Konsulent,Frontend,Privat,Telekom,10 - 50 ansatte,Angular,,5,.NET,Angular,,6,3,.NET,Angular,Astro,.NET,5,6,4,3,1,1,1,1,2,1,4,5,1,1,3
+1 - 2 års erfaring,Konsulent,Frontend,Privat,Olje/Energi,10 - 50 ansatte,Vue,,5,.NET,Vue,Next,5,3,.NET,Angular,Sveltekit,"Jeg går som regel for Baas / Sass, Supabase eller Firebase",4,4,4,5,2,2,2,2,4,2,2,5,2,2,1
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,React,,5,.NET,React,Remix,5,3,.NET,Svelte,Next,,5,2,2,3,1,1,1,1,1,1,3,2,5,1,1
+1 - 2 års erfaring,Fast ansatt,Frontend,Privat,Markedsføring,50 - 100 ansatte,React,Next,6,,React,Next,5,2,,React,Next,Rust,6,4,2,2,2,2,2,3,3,3,4,5,6,3,1
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Markedsføring,100 - 200 ansatte,Vue,,5,,Vue,Astro,3,5,,Vue,Astro,Ferdigløsning ala Supabase,5,2,3,5,3,2,2,1,3,2,4,5,4,1,2
+3 - 4  års erfaring,Fast ansatt,Frontend,Offentlig,Olje/Energi,50 - 100 ansatte,Svelte,Sveltekit,6,,Svelte,Sveltekit,6,5,.NET,Svelte,Sveltekit,.NET,5,4,5,6,3,3,3,3,3,3,5,5,4,3,4
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Bank/Finans/Forsikring,50 - 100 ansatte,React,,3,.NET,Svelte,Sveltekit,5,5,.NET,Qwik,Remix,Rust,4,4,2,5,2,4,2,1,4,1,2,4,5,2,4
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Oppdrett,50 - 100 ansatte,Angular,,3,.NET,React,Next,5,3,.NET,Elm,,Rust,3,3,3,2,2,2,3,3,3,3,3,3,4,3,2
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,React,Next,6,.NET,React,Next,6,4,Golang,Qwik,Nuxt,Node,6,3,3,5,2,4,3,3,3,2,5,6,4,3,3
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,Next,5,Node,React,Next,4,4,node,Svelte,Sveltekit,Golang,4,1,2,4,1,1,1,3,1,1,3,5,6,1,1
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,Over 2000 ansatte,React,Spring Boot...,3,Kotlin,ClojureScript,,4,5,Clojure,ClojureScript,,Clojure,6,2,4,5,1,1,1,5,3,3,1,5,6,2,2
+3 - 4  års erfaring,Konsulent,Fullstack,Privat,Teknologi,400 - 1000 ansatte,Angular,,1,.NET,React,,5,4,Kotlin,"Elm, Rust eller Flutter",,Rust,5,1,3,3,1,1,1,1,1,1,2,5,3,1,1
+Mer enn 20 års erfaring,Konsulent,Fullstack,Offentlig,Forvaltnng,50 - 100 ansatte,Angular,Next,5,Java,React,Next,6,4,Java,React,Next,Java,5,5,2,5,2,2,3,2,2,2,4,2,6,2,4
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Detaljhandel,1 - 10 ansatte,Thymeleaf,,5,Java,htmx,,6,2,Kotlin,Native Android / Native IOS,,Kotlin,5,2,4,3,3,3,3,3,3,3,2,3,5,3,3
+11 - 20 års erfaring,Fast ansatt,Frontend,Privat,Bank/Finans/Forsikring,10 - 50 ansatte,React,,3,,React,,5,2,.NET,Svelte,,Nodejs,3,4,3,2,2,2,1,2,2,2,3,2,3,2,2
+3 - 4  års erfaring,Fast ansatt,Techlead,Privat,Teknologi,1 - 10 ansatte,React,"Ingen lol, ikke alle som bruker det",6,Node.js,React,Next,2,4,Node.js,SolidJS,Hva enn solid anbefaler,Node.js,5,2,4,4,2,2,2,2,5,2,5,4,6,2,4
+3 - 4  års erfaring,Konsulent,Fullstack,Offentlig,Helse,Over 2000 ansatte,React,,6,.NET,React,Remix,4,5,.NET,React,Remix,.NET,6,2,3,3,3,3,3,3,3,3,3,3,3,3,4
+11 - 20 års erfaring,Konsulent,Backend,Privat,Konsulenthus på tvers av alle sektorer,Over 2000 ansatte,Svelte,Feil i skjema får kun valgt  en,6,Java,Svelte,,2,1,Java,Svelte,Sveltekit,Java,2,3,4,5,1,1,1,1,1,1,1,3,5,1,1
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Telekom,200 - 400 ansatte,Vue,,4,.NET,Vue,Next,5,3,.NET,React,Nuxt,Rust,5,2,3,3,2,2,2,2,2,2,4,4,3,2,4
+Under ett års erfaring,Fast ansatt,Fullstack,Offentlig,Teknologi,1 - 10 ansatte,Svelte,Sveltekit,6,"python, fastapi",Svelte,Sveltekit,5,2,"python, fastapi",Svelte,Sveltekit,"python, fastapi",6,3,2,5,1,2,2,1,2,4,3,4,6,1,1
+11 - 20 års erfaring,Fast ansatt,Fullstack,Privat,Teknologi,10 - 50 ansatte,Vue,,5,Node,Vue,,5,3,Node,Svelte,Sveltekit,Node,3,3,5,6,2,2,2,2,2,2,2,2,5,2,2
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Teknologi,50 - 100 ansatte,React,Remix,5,Deno,React,Remix,4,5,Deno,React,Remix,Deno,4,1,1,2,3,1,1,3,1,1,4,4,5,1,1
+5 - 10 års erfaring,Konsulent,Frontend,Offentlig,Transport/Logistikk/Reiseliv,100 - 200 ansatte,React,,6,,Vue,,5,4,Kotlin,Svelte,Sveltekit,.NET,6,3,5,5,4,3,3,3,4,3,5,4,5,2,3
+5 - 10 års erfaring,Konsulent,Fullstack,Offentlig,Teknologi,100 - 200 ansatte,React,Next,6,.NET,React,Next,6,4,.NET,Svelte,Gatsby,Rust,6,3,3,3,3,3,2,3,2,2,2,1,1,1,6
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Olje/Energi,1000 - 2000 ansatte,Svelte,Sveltekit,6,,Svelte,Sveltekit,5,4,,Svelte,Sveltekit,,5,2,3,6,3,3,3,2,4,3,4,4,4,2,1
+11 - 20 års erfaring,Fast ansatt,Techlead,Privat,Helse,10 - 50 ansatte,Flutter,,6,,Flutter,,5,5,.NET,Flutter,,.NET,5,1,1,2,2,2,2,2,2,2,5,6,6,3,2
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Transport/Logistikk/Reiseliv,100 - 200 ansatte,Angular,,6,.NET,Angular,,4,4,.NET,Svelte,Sveltekit,Nodejs,5,5,3,4,3,3,3,2,2,2,2,2,5,2,2
+Under ett års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,10 - 50 ansatte,Vue,,6,PHP,Vue,,6,5,Golang,Vue,Nuxt,Rust,5,4,6,5,3,3,3,4,3,3,5,5,6,3,3
+1 - 2 års erfaring,Konsulent,Frontend,Privat,Telekom,100 - 200 ansatte,React Native,,3,,React,Next,6,4,.NET,Svelte,,Kotlin,4,3,2,3,1,1,1,3,2,3,2,4,5,1,1
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React og react native,,6,Kotlin og java,React,Next,6,2,Kotlin,React og react native,Next,Kotlin,6,2,2,2,2,2,2,2,2,2,6,6,3,3,2
+1 - 2 års erfaring,Fast ansatt,Fullstack,Privat,Bank/Finans/Forsikring,50 - 100 ansatte,React,Java-backend (Kotlin).,5,Kotlin,React,,5,4,Kotlin,Svelte,"Remix hvis React, Sveltekit med Svelte",Kotlin,5,2,1,4,1,1,1,1,1,1,6,4,4,1,1
+Mer enn 20 års erfaring,Fast ansatt,Arkitekt,Privat,Teknologi,10 - 50 ansatte,HTMX,,5,Golang,HTMX,,4,2,Rust,HTMX,,Rust,1,1,2,3,4,3,3,2,5,3,2,2,4,3,1
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1000 - 2000 ansatte,React,Next,6,.NET,Angular,Next,5,6,.NET,React,Next,Rust,6,6,4,2,2,2,2,2,2,2,6,4,6,2,5
+1 - 2 års erfaring,Konsulent,Fullstack,Offentlig,Utdanning,50 - 100 ansatte,React,Remix,5,.NET,React,Remix,6,4,.NET,Svelte,,Rust,5,1,1,4,1,1,1,1,1,1,4,4,2,2,3
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Boligbygging,Over 2000 ansatte,React,Next,4,Typescript (NodeJS),React,Remix,5,3,Kotlin,React,,Kotlin,5,2,2,4,1,1,1,3,3,3,4,3,5,1,2
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Industri,200 - 400 ansatte,Mendix,,6,Java,Mendix,,5,4,Java,React,Next,Next,6,2,6,6,3,3,3,3,6,3,6,3,6,3,3
+Under ett års erfaring,Konsulent,Frontend,Privat,Teknologi,100 - 200 ansatte,React,,3,,React,Next,4,3,.NET,React,Next,.NET,3,2,2,4,1,1,1,1,2,1,2,3,2,2,2
+1 - 2 års erfaring,Konsulent,Fullstack,Offentlig,Generelt,400 - 1000 ansatte,React,,3,Kotlin,React,Remix,6,6,Serverless,React,Remix,Serverless,6,3,5,4,3,3,3,3,4,3,3,3,5,3,3
+5 - 10 års erfaring,Konsulent,Fullstack,Privat,Bank/Finans/Forsikring,400 - 1000 ansatte,React,,6,Kotlin,React,,5,5,Kotlin,React,,.NET,6,1,3,2,1,1,1,1,1,1,4,1,2,1,1
+3 - 4  års erfaring,Konsulent,Frontend,Offentlig,Teknologi,100 - 200 ansatte,Svelte,Sveltekit,6,Node.js,Svelte,Sveltekit,5,5,Node.js,Svelte,Sveltekit,Nede.js,3,1,1,6,1,1,1,1,5,1,1,1,4,1,1
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Teknologi,400 - 1000 ansatte,React,Egen webpack-config,5,Kotlin,React,Next,5,4,Kotlin,React,Next,Feks Backend-as-a-service løsninger som Firebase eller Supabase,6,2,3,5,4,3,3,3,3,3,6,6,4,3,3
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,React,Next,6,Node,React,Next,6,5,,React,Next,,6,3,4,4,3,4,1,1,1,1,4,4,6,1,1
+3 - 4  års erfaring,Fast ansatt,Analytiker,Offentlig,Akademia,Over 2000 ansatte,Vue,Sveltekit,6,,Vue,,5,2,Flask,AlpineJS,Astro,Kotlin,5,2,4,6,3,3,2,4,3,2,3,2,3,3,3
+1 - 2 års erfaring,Konsulent,Fullstack,Privat,Teknologi,1 - 10 ansatte,React,Gatsby,6,.NET,React,Gatsby,6,2,Golang,Vue,Nuxt,Rust,6,6,6,4,3,3,3,3,3,3,5,6,4,4,4
+Under ett års erfaring,Konsulent,Fullstack,Privat,Eiendom,10 - 50 ansatte,Blazor / Razor,,6,.NET,Blazor / Razor,,6,1,.NET,Blazor / Razor,,.NET,6,3,3,3,3,3,3,3,4,3,3,3,3,3,6
+Under ett års erfaring,Konsulent,Backend,Privat,Detaljhandel,400 - 1000 ansatte,React,Next,6,.NET,React,Next,5,5,.NET,React,Next,.NET,6,1,3,5,3,4,4,4,4,4,5,4,4,4,1
+3 - 4  års erfaring,Konsulent,Frontend,Privat,Olje/Energi,50 - 100 ansatte,React,,3,,Svelte,Sveltekit,5,6,Golang,SolidJS,Solidstart,Golang,3,4,6,6,3,5,1,6,6,3,5,5,6,4,2
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,Teknologi,10 - 50 ansatte,Vue,Nuxt,5,,Vue,Nuxt,4,4,,Vue,Nuxt,,6,1,5,5,3,3,3,3,4,4,5,5,5,2,3
+5 - 10 års erfaring,Fast ansatt,Techlead,Privat,Industri,1 - 10 ansatte,Flutter,,5,Node.js,Flutter,,5,4,Golang,Svelte,Sveltekit,Golang,5,4,5,5,3,4,3,4,4,4,5,5,6,1,1
+Mer enn 20 års erfaring,Fast ansatt,Fullstack,Privat,Bygg og anlegg,1 - 10 ansatte,Vue,Astro,6,.NET,Vue,Astro,6,4,.NET,Vue,Astro,Golang,3,1,4,2,5,2,1,1,2,3,1,3,5,3,4
+3 - 4  års erfaring,Fast ansatt,Frontend,Privat,"Industri, renhold og helse",10 - 50 ansatte,Lit,,5,,React,Next,4,5,Rust,React,Next,Rust,5,5,3,4,3,2,3,2,2,2,4,3,5,2,2
+1 - 2 års erfaring,Fast ansatt,"Mest frontend, noe backend. Ikke helt fullstack enda",Offentlig,Kultur,50 - 100 ansatte,React,"God blanding, next er nok sterkest representert, men ingen andre så vidt meg bekjent",6,"Python, flask/fast api",React,Next,6,3,"Python, fast api",React,,"Python, fast api",6,3,4,4,4,4,4,4,4,4,2,5,5,4,4
+3 - 4  års erfaring,Fast ansatt,Fullstack,Privat,Helse,400 - 1000 ansatte,Maui,,3,.NET,Native Android / Native IOS,,6,3,.NET,React,,.NET,5,3,3,4,3,3,3,3,3,3,5,3,5,3,4
+11 - 20 års erfaring,Konsulent,Fullstack,Privat,Teknologi,100 - 200 ansatte,React,Next,3,.NET,Vue,Next,4,3,.NET,Vue,Next,.NET,4,3,4,4,2,2,2,2,2,2,3,2,2,3,4
+11 - 20 års erfaring,Fast ansatt,Frontend,Privat,Media,200 - 400 ansatte,Svelte,Sveltekit,6,PHP,Svelte,Sveltekit,6,4,,Svelte,Sveltekit,Rust,4,1,3,6,1,2,1,2,3,2,2,1,3,1,1
+5 - 10 års erfaring,Fast ansatt,Frontend,Privat,Industri,1 - 10 ansatte,Ember,,6,Golang,Ember,,6,3,Golang,Ember,,,2,2,4,4,3,3,4,3,3,3,4,3,4,4,3
